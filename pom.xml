@@ -22,7 +22,7 @@
                       </activation>
                <properties>
                       <sonar.host.url>
-                             http://localhost:9000
+                             http://localhost:4950
                              </sonar.host.url>
                       </properties>
         </profile>
