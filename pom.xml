@@ -44,5 +44,5 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-
+<!-- End of tag -->
 </project>
